@@ -2,6 +2,7 @@
 import React from 'react';
 import './components/style.css';
 import Career from './components/career';
+import Insight from './components/insight';
 import MyComponent from './components/home_screen';
 import MobileApp from './components/slider/mobileapp';
 import Software from './components/slider/software';
@@ -17,12 +18,12 @@ function App() {
         <Routes>
           <Route path="/wm-portfolio" element={<MyComponent />} />
           <Route path="/career" element={<Career />} />
+          <Route path="/insight" element={<Insight />} />
           <Route path="/mobile" element={<MobileApp />} />
           <Route path="/software" element={<Software />} />
           <Route path="/schedule" element={<Schedule />} />
           <Route path="/voip" element={<Voip />} />
           <Route path="/ai" element={<AI />} />
-
         </Routes>
       </Router>
     </div>
