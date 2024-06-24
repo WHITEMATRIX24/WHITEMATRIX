@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/WhiteMatrix/static/css/main.08a68268.css",
+    "main.js": "/WhiteMatrix/static/js/main.dd3103db.js",
+    "static/js/453.affe5fa3.chunk.js": "/WhiteMatrix/static/js/453.affe5fa3.chunk.js",
+    "static/media/software.jpg": "/WhiteMatrix/static/media/software.86c66569a3e124d88c5b.jpg",
+    "static/media/voip2.jpg": "/WhiteMatrix/static/media/voip2.d362a9f1bca4ddf46c67.jpg",
+    "static/media/ai1.jpg": "/WhiteMatrix/static/media/ai1.856d917af0de082d5f25.jpg",
+    "static/media/AIM1.png": "/WhiteMatrix/static/media/AIM1.59239d324c1e600aba94.png",
+    "static/media/mobile.png": "/WhiteMatrix/static/media/mobile.600e3218dee2749d7250.png",
+    "static/media/software12.jpg": "/WhiteMatrix/static/media/software12.a4f8c27fad271a62554d.jpg",
+    "static/media/app12.jpg": "/WhiteMatrix/static/media/app12.e1002c1458fd6af107c7.jpg",
+    "static/media/bg.png": "/WhiteMatrix/static/media/bg.26da33d7dc920149bcc3.png",
+    "static/media/bg3.png": "/WhiteMatrix/static/media/bg3.70d8fd59ec8f82d8714a.png",
+    "static/media/voip1.jpg": "/WhiteMatrix/static/media/voip1.ee026cfb17f8a8144f17.jpg",
+    "static/media/Research_paper.pdf": "/WhiteMatrix/static/media/Research_paper.68267a2cea07e74c672b.pdf",
+    "static/media/logo.png": "/WhiteMatrix/static/media/logo.a45ca0e583216534fd63.png",
+    "static/media/slick.svg": "/WhiteMatrix/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/WhiteMatrix/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/WhiteMatrix/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/WhiteMatrix/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/WhiteMatrix/index.html",
+    "main.08a68268.css.map": "/WhiteMatrix/static/css/main.08a68268.css.map",
+    "main.dd3103db.js.map": "/WhiteMatrix/static/js/main.dd3103db.js.map",
+    "453.affe5fa3.chunk.js.map": "/WhiteMatrix/static/js/453.affe5fa3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08a68268.css",
+    "static/js/main.dd3103db.js"
+  ]
+}
